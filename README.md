@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![pfandie's GitHub stats](https://github-readme-stats.vercel.app/api?username=pfandie&hide=issues,contribs&custom_title=pfandie%C2%B4s%20GitHub%20Stats&count_private=true&include_all_commits&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfandie&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfandie&layout=compact&langs_count=8&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
