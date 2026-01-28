@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there!+;Be+Adviced%3A+lack+of+planning+on+your;part+does+not+constiture+an+emergency+on+my+part)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there!+;Be+Adviced%3A+lack+of+planning+on+your+part;does+not+constiture;an+emergency+on+my+part)](https://git.io/typing-svg)
 
 <!--
 **pfandie/pfandie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
